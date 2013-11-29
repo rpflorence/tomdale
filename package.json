@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ryan Florence",
+  "author": "Ryan Florence and Tom's parents",
   "license": "MIT",
   "devDependencies": {
     "rf-release": "~0.1.0"
